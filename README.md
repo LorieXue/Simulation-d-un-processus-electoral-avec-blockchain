@@ -1,9 +1,11 @@
 # Simulation-d-un-processus-electoral-avec-blockchain
 
-1. Ouvrir le Terminal et aller au dossier 
+1. Ouvrir le Terminal et aller au dossier `projet`
 2. `make all` ou `make`
 3. `./main`
 Choisissez un numéro pour exécuter les fonctions de test.
+
+Pour vider les données: `make clean`
 
 
 # Licence
