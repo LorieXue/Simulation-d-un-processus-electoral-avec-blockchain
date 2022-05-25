@@ -3,7 +3,7 @@
 1. Ouvrir le Terminal et aller au dossier 
 2. `make all` ou `make`
 3. `./main`
-4. choisir un main et on exécute leur test
+Choisissez un numéro pour exécuter les fonctions de test.
 
 
 # Licence
