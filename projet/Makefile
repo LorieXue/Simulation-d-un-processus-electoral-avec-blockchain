@@ -110,5 +110,5 @@ clean :
 	rm ./exec/*
 	rm main *.txt
 	rm ./data/*
-	rm ./Blockchain/*.txt
+	rm ./Blockchain/*
 
