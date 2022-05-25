@@ -10,6 +10,6 @@ Pour vider tous les fichiers compilés et exécutables en plus : `make clean`
 
 
 # Licence
-Copyright (c) 2021, Erwan Boukerche, Cyril Lin, Lorie Xue, Gad Zana
+Copyright (c) 2022, Lorie Xue
 
 Permission to modify and redistribute is granted under the terms of the GPLv3 license. See the file LICENSE for the full license.
