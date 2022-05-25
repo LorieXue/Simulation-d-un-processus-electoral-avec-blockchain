@@ -102,7 +102,7 @@ exercice9.o : $(F)exercice9.h $(F)exercice8.h $(F)exercice7.h $(F)exercice6.h $(
 
 data :
 	rm ./data/*
-	rm ./Blockchain/*.txt
+	rm ./Blockchain/*
 	rm *.txt
 
 clean :
