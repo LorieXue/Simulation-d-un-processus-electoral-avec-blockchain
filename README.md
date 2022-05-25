@@ -5,7 +5,8 @@
 3. `./main`
 Choisissez un numéro pour exécuter les fonctions de test.
 
-Pour vider les données: `make clean`
+Pour vider les données: `make data`
+Pour vider tous les fichiers compilés et exécutables en plus : `make clean`
 
 
 # Licence
